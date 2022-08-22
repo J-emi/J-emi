@@ -1,4 +1,4 @@
-<p align="center"> ⚛️ React :seedling: NodeJs 🟦 TypeScript </p>
+<p align="center"> ⚛️ React 🟦 TypeScript </p>
  
 
 
