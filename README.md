@@ -1,12 +1,10 @@
-<p align="center"> ⚛️ React 🟦 TypeScript </p>
+<p align="center"> :small_red_triangle_down: Ruby :small_orange_diamond: JavaScript </p>
  
 
 
 <p> :blush: Still learning </p>
 <p> 👋 Open to collaboration </p>
 <p> :sparkles: UX enthusiast </p> 
-
-<p align="center"> <i> Życie to pasmo niekończącej się nauki, a potem okazuje się, że JS ma nowy framework. </i> </p>
 
 
 <!---
