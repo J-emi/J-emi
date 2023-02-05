@@ -7,7 +7,7 @@
 
 <h2 align="left"> 👩‍💻 About me: </h2>
 
-* 💻 I'm an aspring full-stack developer, self-taught computer enthusiast
+* 💻 I'm a full-stack developer, self-taught computer enthusiast
 * ✨ I appreciate good design, UX and accessibility
 * 🐳 DevOps tools are not strangers to me
 * 🔥 Always open to cooperation on interesting projects
