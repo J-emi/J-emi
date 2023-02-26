@@ -23,6 +23,7 @@
   <a href="https://git-scm.com" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> </a>
     <a href="https://www.docker.com" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" alt="google cloud platform" width="40" height="40"/> </a>
     </p>
     
 
