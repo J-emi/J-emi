@@ -1,18 +1,18 @@
 <h4 align="center"><samp> Hi there 👋 Welcome to my Github! </samp></h4>
 
 <p align="center">
-  <img width="400" src="https://media.giphy.com/media/69gMFwmDe3JObveaeK/giphy.gif">
+  <img width="400" src="https://media.giphy.com/media/SxM9Lvv9YS5b3Q8CQ2/giphy.gif">
 </p>
 
 
-<h2 align="left"> 👩‍💻 About me: </h2>
+<h2 align="left"> About me: </h2>
 
 * 💻 I'm a full-stack web developer, self-taught computer enthusiast
 * ✨ I appreciate good design, UX and accessibility
 * 🐳 DevOps tools are not strangers to me
 * 🔥 Always open to cooperation on interesting projects
 
-<h2 align="left"> 🛠️ Tools and technologies I use: </h2>
+<h2 align="left">Tools and technologies I use: </h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
