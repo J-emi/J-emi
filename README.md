@@ -14,7 +14,7 @@
 
 <h2 align="left">Tools and technologies I use: </h2>
 <p align="left">
-  <a href="https://www.ruby-lang.org" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ruby-programming-language-icon.png" alt="ruby" width="40" height="40"/> </a>
+  <a href="https://www.ruby-lang.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" alt="ruby" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> </a>
   <a href="https://git-scm.com" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> </a>
     <a href="https://www.docker.com" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="40" height="40"/> </a>
